@@ -6,6 +6,9 @@
 | ------------------------ |:-------------------------:|
 | Article                              | [![Dataset DOI](https://img.shields.io/badge/Article_DOI-TBD-blue)](TBD)      |
 | Dataset                              | [![Dataset DOI](https://img.shields.io/badge/Dataset_DOI-10.5281/zenodo.14743950-blue)](https://doi.org/10.5281/zenodo.14743950)       |
+| scRNAseq data I                       | [![Dataset GSE](https://img.shields.io/badge/Dataset_GSE-GSE287882-blue)](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE287882)       |
+| scRNAseq data II                      | [![Dataset GSE](https://img.shields.io/badge/Dataset_GSE-GSE287783-blue)](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE287783)       |
+
 
 
 ## Setting data directory
