@@ -2,6 +2,9 @@
 [<img src="https://img.shields.io/badge/code_license-MIT-green">](./LICENSE)
 [<img src="https://img.shields.io/badge/text_license-CC--BY--4.0-green">](https://creativecommons.org/licenses/by/4.0/)
 
+Pre-publication release:
+[![DOI](https://zenodo.org/badge/922291899.svg)](https://doi.org/10.5281/zenodo.14851663)
+
 | Item                     | DOI                       |
 | ------------------------ |:-------------------------:|
 | Article                              | [![Dataset DOI](https://img.shields.io/badge/Article_DOI-TBD-blue)](TBD)      |
