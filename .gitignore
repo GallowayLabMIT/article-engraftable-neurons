@@ -131,8 +131,7 @@ dmypy.json
 # Mac
 .DS_Store
 
-# Figures and data
-figures/
+# Data
 data/
 
 # rushd
